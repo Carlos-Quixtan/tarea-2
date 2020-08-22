@@ -1,0 +1,28 @@
+[
+    {
+         "nombre":"mate",
+         "creditos":20,
+         "obligatorio":"no",
+         "seccion":"C"
+    },
+        {
+             "nombre":"fisica",
+             "creditos":10,
+             "obligatorio":"si",
+             "seccion":"B+"
+        },
+
+        {
+            "nombre":"logica",
+            "creditos":2,
+            "obligatorio":"no",
+            "seccion":"C"
+       },
+
+       {
+        "nombre":"lenguajes",
+        "creditos":100,
+        "obligatorio":"por supuesto que si",
+        "seccion":"A+"
+   }
+        ]

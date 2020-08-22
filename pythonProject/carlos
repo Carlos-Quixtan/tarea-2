@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<integrantes>
+<usuarios >
+<nombre>carlos</nombre>
+<edad>20</edad>
+<casado>no</casado>
+<apellido>quixtan</apellido>
+</usuarios>
+
+<usuarios >
+<nombre>sandra</nombre>
+<edad>45</edad>
+<casado>si</casado>
+<apellido>quixtan</apellido>
+</usuarios>
+
+<usuarios>
+<nombre>lucas</nombre>
+<edad>25</edad>
+<casado>si</casado>
+<apellido>smith</apellido>
+</usuarios>
+
+<usuarios>
+<nombre>roberto</nombre>
+<edad>20</edad>
+<casado>no</casado>
+<apellido>shantay</apellido>
+</usuarios>
+</integrantes>
